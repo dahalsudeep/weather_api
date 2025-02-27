@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "Sudeep Dahal",
   "license": "MIT",
-  "description": "The Weather API",
+  "description": "This is my new weather_api.",
   "dependencies": {
     "@faker-js/faker": "^9.5.0",
     "express": "^4.21.2",
