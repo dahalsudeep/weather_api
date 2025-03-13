@@ -19,6 +19,7 @@
   "description": "This is my new weather_api.",
   "dependencies": {
     "@faker-js/faker": "^9.5.0",
+    "algosdk": "^3.2.0",
     "express": "^4.21.2",
     "express-validator": "^7.2.1"
   },
